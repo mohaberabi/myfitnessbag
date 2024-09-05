@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">JetMart</string>
+    <string name="fatal_error">"Something went wrong please try again"</string>
+
+    <string name="disk_full">"Disk Full , Empty Some Space "</string>
+    <string name="no_netowrk">No Internet Connection</string>
+    <string name="conflict">"Conflict Data "</string>
+    <string name="serialize_error">Serialization Error\n</string>
+    <string name="unknown_error">"Something wnet Wrong "</string>
+    <string name="payload_too_large">Payload Too Large</string>
+    <string name="request_timeout">"Request Timeout "</string>
+    <string name="too_many_request">Too Many Request</string>
+    <string name="server_error">Server Error</string>
+    <string name="anayltics">Anaytlics</string>
+    <string name="log_out">Logout</string>
+
+    <string name="unAuthed">UnAthed</string>
+    <string name="please_select_your_language">Please Select Your Language</string>
+    <string name="get_started">Get Started</string>
+    <string name="delivering_all_your_needs_as_fast_as_coroutines">"Delivering all your needs as fast as coroutines "</string>
+    <string name="go_back">go back</string>
+    <string name="change_password_visibility">change password visibility</string>
+    <string name="first_name">"First name "</string>
+    <string name="email">Email</string>
+    <string name="example_jetmart_com">example@jetmart.com</string>
+    <string name="login">Login</string>
+    <string name="loginn">Login</string>
+    <string name="already_have_an_account">Already have an account ...?</string>
+    <string name="last_name">"Last name "</string>
+    <string name="mart">mart</string>
+    <string name="jet">jet</string>
+    <string name="welcome_again">Welcome again!</string>
+    <string name="login_or_create_an_account">"Login or create an account  "</string>
+    <string name="skip">Skip</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="user_disabled">User Disabled</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="email_already_in_use">Email Already In Used</string>
+    <string name="weak_password">Weak Password</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="invalid_custom_token">Invalid Custom Token</string>
+    <string name="account_exist">Account Exists</string>
+    <string name="already_have_account">Already have an account </string>
+    <string name="create_account">Create account</string>
+    <string name="hello_there">Hello there !</string>
+    <string name="dont_have_Account">New to jetmart ?</string>
+    <string name="language">Language</string>
+    <string name="address_book">Address Book</string>
+    <string name="orders">Orders</string>
+    <string name="account">Account</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="faqs">FAQs</string>
+    <string name="help_support"><![CDATA[Help & Support]]></string>
+    <string name="don_t_miss_the_amazing_jetpack_shopping_experience">Don\'t miss the amazing jetpack shopping experience</string>
+    <string name="start_shopping_now">"Start shopping now "</string>
+    <string name="sign_in_or_create_account">"Sign in or create account "</string>
+    <string name="update">Update</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_out_question">Are you sure you want to sign out...? , this means you will need to sign in again</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="image_place_holder">"Image place holder "</string>
+    <string name="please_try_again">Please try again...</string>
+    <string name="confirm_order">Confirm Order %1$s</string>
+
+    <string name="no_results_found">No Results Found</string>
+    <string name="empty_data">empty data</string>
+    <string name="try_again">Try again</string>
+    <string name="choose_address">choose  address</string>
+    <string name="shop_by_category">Shop by category</string>
+    <string name="cart_total">Cart total %1$s</string>
+    <string name="egp">%1$s EGP</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="clear_cart">clear cart</string>
+    <string name="cart">Cart</string>
+    <string name="explain_location">Please allow access to location in order to get your address to deliver to</string>
+    <string name="location_required">Location Permission Required</string>
+    <string name="delivering_to">Delivering to</string>
+    <string name="confirm_address">Confirm address</string>
+    <string name="now_now">"Now now "</string>
+    <string name="enable">Enable</string>
+    <string name="location">location</string>
+    <string name="add_address">Add Address</string>
+    <string name="name">Name</string>
+    <string name="address_name_ph">eg : Home ,Office ,</string>
+    <string name="address">Address</string>
+    <string name="address_ph">eg : hay awal mant\'a 6 villa 101</string>
+    <string name="save">Save</string>
+    <string name="cod">Cash On Delievery</string>
+    <string name="asap">As soon as possible</string>
+    <string name="checkout">Checkout</string>
+    <string name="cart_count">You have %1$s items in your cart</string>
+    <string name="choose_delivery_time">"Choose delivery time "</string>
+    <string name="choose_payment_method">"Choose payment method "</string>
+    <string name="del_fees">"Delivery Fees"</string>
+    <string name="order_ttl">"Order total"</string>
+    <string name="payment_overview">Payment overview</string>
+    <string name="order_is_tracking">"order is tracking "</string>
+    <string name="are_you_sure_you_want_cancel_the_order_please_know_order_can_not_be_canceled_if_it_is_accepted">Are you sure you want cancel the order...? please know order can not be canceled if it is accepted</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="cancel">Cancel</string>
+    <string name="changed_my_mind">Changed my mind</string>
+    <string name="copy">copy</string>
+    <string name="items_summary">Items summary</string>
+
+    <string name="order_sent_ttl">Order is sent…</string>
+    <string name="order_sent_subttl">Your order was sent please wait untill it is accepted </string>
+
+
+    <string name="order_receved_ttl">Order is preparing</string>
+    <string name="order_reced_subttl">Your order was accepted please wait while we deliever to you </string>
+
+
+    <string name="order_done_ttl">Order done </string>
+    <string name="order_done_subttl">We wish you happy ordering </string>
+
+    <string name="order_cancel_ttlt">Order canceled</string>
+    <string name="order_cacnel_subttl">Sorry for any inconvenience</string>
+    <string name="network_lost">Your network connection is lost you might face some limitations while using the app until connection is back again</string>
+
+    <string name="phone">Phone Number</string>
+    <string name="address1">Address 1</string>
+    <string name="address2">Address 2</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="billing_info">Billing Information</string>
+    <string name="account_info">Account Information</string>
+    <string name="shipping_info">Shipping Information</string>
+
+</resources>

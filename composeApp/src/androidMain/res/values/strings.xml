@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFitnessBag</string>
+    <string name="shortcut_cart_long_label" translatable="false">View Cart</string>
+    <string name="shortcut_cart_disabled_message">Shortcut disabled</string>
+
+    <string name="shortcut_shop_long_label" translatable="false">View Items</string>
+    <string name="shortcut_shop_disabled_message" translatable="false">Shortcut disabled</string>
+
+    <string name="shortcut_account_long_label" translatable="false">View Account</string>
+    <string name="shortcut_account_disabled_message" translatable="false">Shortcut disabled</string>
+
+</resources>
